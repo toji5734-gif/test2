@@ -1,0 +1,1 @@
+import {PageLayout,Breadcrumbs} from '@/components/page-layout'; export default function WebsiteTerms(){return <PageLayout><Breadcrumbs items={[{label:'Website Terms'}]}/><section className="legal-page"><p className="eyebrow">PC Shack / Legal</p><h1>Website Terms</h1><p>Verified website terms will be published here before launch.</p></section></PageLayout>}
